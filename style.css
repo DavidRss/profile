@@ -1,0 +1,47 @@
+/* Colors and Fonts */
+
+body{
+  background-image: url("images/back.jpg");
+  background-repeat: repeat-x;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color:  #FFEA35;
+  font-size: 20px;
+  line-height: 1.6em;
+}
+
+h1, h2, h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  color: #FFEA35;
+  font-size: 30px;
+}
+
+h2{
+  color: #FFEA35;
+  font-size: 25px;
+  font-weight: 300;
+}
+
+h3{
+  font-size: 20px;
+  font-weight: 300;
+}
+
+a{
+  color: #ccc;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #FFEA35;
+  text-decoration: none;
+}
+
+table{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
